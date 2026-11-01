@@ -1,0 +1,11 @@
+KIT MSD-ONE PARA COMPANION
+
+Preparar (so uma vez):
+  Copia para esta pasta o ficheiro mars-msd-one-...tgz que funcionou
+  (esta no Ambiente de Trabalho do teu PC). Deixa so esse.
+
+Em cada maquina nova:
+  1. Companion instalado e aberto pelo menos uma vez.
+  2. Duplo clique em INSTALAR.bat.
+  3. Na pagina que abre: Add Surface Integration > Mars Gaming MSD-ONE.
+  4. Liga o teclado (software da Mars Gaming fechado).
